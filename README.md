@@ -1,4 +1,4 @@
-# 🧠💬 05-chainlit: AI Chat Interface Starter 
+# 🧠💬 05-chainlit: AI Chat Interface
 
 *One-command deployable Chainlit template for building conversational AI apps • No more blank-screen anxiety!*
 
