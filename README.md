@@ -9,7 +9,7 @@
 - 📱 **Mobile-optimized** chat interface
 
 ## 🎥 Live Demo
-[![Demo Video](https://drive.google.com/file/d/19q0rheMHoE802UO0aqADSN6Ak0JXre3t/view?usp=sharing)  
+[![DEMO VIDEO](https://img.shields.io/badge/%F0%9F%8E%A5_Watch_Now-9146FF?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=19q0rheMHoE802UO0aqADSN6Ak0JXre3t)
 
 **🌈 Shoutouts**
 Built with these 🔥 tools:
