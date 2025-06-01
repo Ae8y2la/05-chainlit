@@ -16,5 +16,6 @@ Built with these 🔥 tools:
 **Chainlit**
 **Python**
 
+## 🙌 Show Some Love
 ⭐ Star if this helped you
 🐛 Issues? **"This broke lol"** → Open Issue
